@@ -1,0 +1,11 @@
+BrowseForFolerModule = 49, 184, 721, 588, C
+frmPassword = 66, 66, 693, 474, C, 270, 261, 644, 513, C
+frmUsers = 132, 132, 650, 579, C, 88, 98, 526, 525, C
+WebServer = -18, 53, 703, 677, C, 75, 33, 623, 562, C
+frmEMail = 148, 243, 666, 690, C, 265, 296, 661, 505, C
+frmChangePassword = 44, 44, 562, 491, C, 271, 255, 637, 507, C
+frmSecuredFolder = 71, 163, 588, 610, C, 78, 85, 615, 588, C
+mdlMain = 44, 44, 690, 646, C
+frmShowFolder = 220, 220, 738, 667, C, 163, 105, 681, 552, C
+frmBugReport = 123, 105, 641, 552, C, 87, 146, 573, 593, C
+TrayArea = 0, 0, 0, 0, C, 278, 243, 390, 353, C
