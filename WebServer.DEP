@@ -1,0 +1,36 @@
+[Version]
+Version=1.0.0.6
+
+[WebServer.exe <0009>]
+Dest=$(AppPath)
+Date=16/06/2001
+Time=07:30
+Version=1.0.0.6
+CABFilename=WebServer.CAB
+CABINFFile=WebServer.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=MSWINSCK.OCX
+Uses8=TABCTL32.OCX
+Uses9=COMDLG32.OCX
+Uses10=MSCOMCTL.OCX
+Uses11=MSCHRT20.OCX
+Uses12=MSADO20.TLB
+Uses13=MSBIND.DLL
+Uses14=MSADODC.OCX
+
+[MSADO20.TLB <0009>]
+Dest=$(WinSysPath)
+Date=08/06/2000
+Time=17:00
+Version=2.50.4403.4
+
+[MSSTDFMT.DLL <0009>]
+Dest=$(WinSysPath)
+Date=23/05/2000
+Time=21:45
+Version=6.0.84.50
